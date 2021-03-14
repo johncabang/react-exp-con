@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./styles.css";
-import medium17 from "./medium17.png";
-import medium27 from "./medium27.png";
+import medium17 from "../../assets/images/medium17.png";
+import medium27 from "../../assets/images/medium27.png";
 
 function RedSection() {
   return (
