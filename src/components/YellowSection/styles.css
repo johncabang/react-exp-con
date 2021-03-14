@@ -1,0 +1,61 @@
+.yellow-container {
+  background: #ffb33f;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  padding: 70px;
+}
+
+.demo-container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  letter-spacing: 5px;
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 3px;
+}
+p span {
+  display: block;
+}
+
+.yellow-button {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #ffb33f;
+  border: none;
+  border-radius: 25px;
+  width: 200px;
+  height: 40px;
+  cursor: pointer;
+  outline: none;
+  background-color: #fff;
+}
+.yellow-button-try {
+  margin-bottom: 6rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #ffb33f;
+  border: none;
+  border-radius: 25px;
+  width: 150px;
+  height: 30px;
+  cursor: pointer;
+  outline: none;
+  background-color: #fff;
+}

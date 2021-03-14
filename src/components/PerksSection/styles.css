@@ -1,0 +1,45 @@
+.perks-container {
+  background-color: #191919;
+  height: 100vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.perks-wrapper {
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+.perks-item-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.perks-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  box-sizing: border-box;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.perks-title {
+  margin-bottom: 1.5rem;
+}
+
+.perks-text-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.perks-text {
+  font-size: 1.3rem;
+  margin-top: 1rem;
+  width: 100%;
+}

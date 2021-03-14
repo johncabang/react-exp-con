@@ -1,0 +1,31 @@
+.navbar {
+  background-color: transparent;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  top: 0;
+  position: fixed;
+  z-index: 999;
+  padding: 40px 0 0 40px;
+}
+
+.navbar-logo {
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 5px;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0;
+}
+
+.fa-bars {
+  font-size: 2rem;
+  color: #fff;
+  padding-right: 30px;
+  cursor: pointer;
+}
+
+.navbar-link {
+  text-decoration: none;
+}

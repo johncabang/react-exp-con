@@ -1,0 +1,43 @@
+.footer-container {
+  height: 40vh;
+  color: #fff;
+  background-color: #5e33d1;
+}
+
+.footer-email {
+  font-size: 1rem;
+  padding: 5rem 0 5rem 5rem;
+  cursor: pointer;
+}
+
+.fas {
+  padding-right: 0.5rem;
+}
+
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.footer-logo {
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 5px;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.footer-text {
+  font-size: 1rem;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
